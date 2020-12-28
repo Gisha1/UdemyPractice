@@ -1,7 +1,7 @@
 package ForLoopPractice;
 
 public class Sum3And5 {
-
+        // first task done, practice git
     public static void main(String[] args) {
 
         int sum = 0;
@@ -19,6 +19,7 @@ public class Sum3And5 {
             }
         }
         System.out.print("sum = " + sum);
+
 
 
     }
