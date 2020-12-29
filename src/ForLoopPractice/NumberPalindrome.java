@@ -7,6 +7,7 @@ public class NumberPalindrome {
       int reverse = 0;
 
     //  if(number % )
+    // trying to pull to inteliiJ
 
   }
 
