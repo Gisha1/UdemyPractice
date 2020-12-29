@@ -10,6 +10,8 @@ public class NumberPalindrome {
     // trying to pull to inteliiJ
       // created new branch
 
+      //trying to move the head
+
 
   }
 
