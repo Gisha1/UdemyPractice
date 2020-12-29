@@ -8,6 +8,8 @@ public class NumberPalindrome {
 
     //  if(number % )
     // trying to pull to inteliiJ
+      // created new branch
+
 
   }
 
